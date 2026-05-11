@@ -1,6 +1,8 @@
-# universidade-brasileira-livre
+\# universidade-brasileira-livre
 
-\# 🎓 Jornada em Ciência da Computação - UBL
+
+
+\## 🎓 Jornada em Ciência da Computação - UBL
 
 
 
@@ -24,11 +26,11 @@ Meu objetivo é construir uma base sólida em fundamentos de computação para c
 
 | \*\*Matemática Discreta\*\* | 📖 Cursando | Lógica, conjuntos e teoria dos números. |
 
-| \*\*Arquitetura de Computadores\*\* | 📖 Cursando | Organização interna e hardware. |
+| \*\*Arquitetura de Computadores\*\* | 💻 Cursando | Organização interna e hardware. |
 
-| \*\*Introdução à C.C com Python\*\* | 📖 Cursando | Lógica de programação e algoritmos iniciais. |
+| \*\*Introdução à C.C com Python\*\* | 🐍 Cursando | Lógica de programação e algoritmos iniciais. |
 
-| \*\*Banco de Dados\*\* | 📖 Cursando | Modelo Relacional e estruturação de dados. |
+| \*\*Banco de Dados\*\* | 🗄️ Cursando | Modelo Relacional e estruturação de dados. |
 
 
 
@@ -52,5 +54,5 @@ As pastas estão organizadas por disciplina, contendo resumos teóricos e códig
 
 \---
 
-"O aprendizado é um processo constante e a base teórica é o que diferencia um bom profissional."
+\*"O aprendizado é um processo constante e a base teórica é o que diferencia um bom profissional."\*
 
