@@ -13,7 +13,7 @@ Meu objetivo é construir uma base sólida em fundamentos de computação para c
 | **Sistemas Operacionais** | ✅ Concluído | Fundamentos de kernel, processos e memória. |
 | **Matemática Discreta** | 📖 Cursando | Lógica, conjuntos e teoria dos números. |
 | **Arquitetura de Computadores** | 💻 Cursando | Organização interna e hardware. |
-| **Introdução à C.C com Python** | 🐍 Cursando | Lógica de programação e algoritmos iniciais. |
+| **[Introdução à C.C com Python](./Introdução-à-Ciências-da-Computação-com-Python1)** | 🐍 Cursando | Lógica de programação e algoritmos iniciais. |
 | **Banco de Dados** | 🗄️ Cursando | Modelo Relacional e estruturação de dados. |
 
 ## 📂 Estrutura do Repositório
@@ -22,7 +22,7 @@ As pastas estão organizadas por disciplina, contendo resumos teóricos e códig
 
 * [Sistemas Operacionais](./sistemas-operacionais/) - Notas sobre o gerenciamento de recursos.
 * [Matemática Discreta](./matematica-discreta/) - Estudos de lógica e fundamentos matemáticos.
-* [Python](./Introdução-à-Ciências-da-Computação-com-Python) - Scripts iniciais e lógica de programação.
+* [Python](./Introdução-à-Ciências-da-Computação-com-Python1) - Scripts iniciais e lógica de programação.
 * [Banco de Dados](./banco-de-dados/) - Modelagem e conceitos de dados.
 
 ---
